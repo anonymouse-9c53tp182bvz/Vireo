@@ -1,0 +1,6 @@
+work_dirs/*
+data/*
+checkpoints/*
+**/__pycache__
+data
+checkpoints
