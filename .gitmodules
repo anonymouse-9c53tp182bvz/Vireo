@@ -1,0 +1,6 @@
+[submodule "depthforge/models/backbones/third_party/PromptDA"]
+	path = depthforge/models/backbones/third_party/PromptDA
+	url = https://github.com/DepthAnything/PromptDA.git
+[submodule "depthforge/models/backbones/third_party/Depth-Anything-V2"]
+	path = depthforge/models/backbones/third_party/Depth-Anything-V2
+	url = https://github.com/DepthAnything/Depth-Anything-V2.git
