@@ -196,7 +196,7 @@ To evaluate a trained model, replace `<Vireo model>.pth` with your model file an
 - **Evaluation with Vireo V2 Cityscapes Configuration:**
 
   ```
-  python tools/test.py configs/dinov2/vireov2_dinov2_mask2former_512x512_bs1x4_citys.py <Vireo model>.pth --backbone checkpoints/dinov2_converted.pth
+  python tools/test.py configs/dinov2_domain/vireov2_dinov2_mask2former_512x512_bs1x4_citys.py <Vireo model>.pth --backbone checkpoints/dinov2_converted.pth
   
   python tools/test.py configs/dinov2_ov/vireov2_dinov2_mask2former_ov_512x512_bs1x4_deliver.py <Vireo model>.pth --backbone checkpoints/dinov2_converted.pth
   ```
