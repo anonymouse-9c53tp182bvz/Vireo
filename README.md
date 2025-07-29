@@ -29,6 +29,7 @@ pip install xformers=='0.0.30' # optional for DINOv2
 pip install -r requirements.txt
 pip install future tensorboard
 ```
+and please read [Initial_DA](https://github.com/anonymouse-9c53tp182bvz/Vireo/blob/main/vireo/models/backbones/third_party/.md)
 
 ## Dataset Preparation
 
